@@ -1,0 +1,1 @@
+This is the Object Oriented Programming Coursework in the module named OOP (Object Oriented Programming). This is an individual project which was about object oriented programming concepts and how to use them in the java language. This whole project is done using the java programming language and for the GUI part of this coursework I used java swing. 
